@@ -1,1 +1,2 @@
-teste de repositório
+<?php phpinfo() ;?>
+<?="Teste" ;?>
